@@ -5,12 +5,12 @@ I am a Junior Quality Assurance (QA) professional with a passion for ensuring so
 ## 🛠 Skills and Tools
 
 - **Manual Testing**
-- **Automated Testing:** Selenium, JUnit
 - **Programming Languages:** Java, Html, CSS
 - **Data Bases:** SQL, MySql
 - **Version Control:** Git, GitHub
 - **Agile Methodologies:** Scrum, Kanban
 - **Issue Tracking:** Jira, Trello
+- **Others:** Postman
 
 ## 🌱 Learning and Development
 
