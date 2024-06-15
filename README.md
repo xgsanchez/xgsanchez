@@ -6,7 +6,7 @@ I am a Junior Quality Assurance (QA) professional with a passion for ensuring so
 
 - **Manual Testing**
 - **Programming Languages:** Java, Html, CSS
-- **Data Bases:** SQL, MySql
+- **DataBases:** SQL, MySql, JDBC
 - **Version Control:** Git, GitHub
 - **Agile Methodologies:** Scrum, Kanban
 - **Issue Tracking:** Jira, Trello
